@@ -1,0 +1,14 @@
+<resources>
+    <string name="app_name">mercy-FuelTrack</string>
+    <string name="edit_date"> Enter a Date</string>
+    <string name="edit_station">Enter A Station</string>
+    <string name="edit_odometer">Enter A Odometer Reading</string>
+    <string name="edit_grade">Enter A Fuel Grade</string>
+    <string name="edit_amount">Enter A Fuel Amount</string>save
+    <string name="edit_cost">Enter a Fuel Cost</string>
+    <string name="save">Save</string>
+    <string name="view">View</string>
+    <string name="action_settings">Settings</string>
+    <string name="title_activity_fuel">Fuel</string>
+    <string name="title_activity_display_entries">My Entry</string>
+</resources>
